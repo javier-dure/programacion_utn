@@ -4,3 +4,6 @@ arena
 
 -ladrillos
 -piedras
+
+-ventanas
+-puertas
